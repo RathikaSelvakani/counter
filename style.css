@@ -1,0 +1,57 @@
+h2{
+   text-align: center;
+   margin-top: 15%;
+   color: black;
+   background-origin: padding-box;
+   border-style: solid;
+   display: inline-block;
+   border-radius: 20px;
+   padding: 20px;
+   border-color: grey;
+   background-color: gray;
+   background: linear-gradient(to right,violet,skyblue);
+   font-size: xx-large;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+button {
+   text-align: center;
+   padding:20px;
+    border-radius: 20px;
+    margin-left: 10px;
+    color: black;
+    background: linear-gradient(to right,yellow,green);
+    background: linear-gradient(to left,yellow,green);
+    font-size: x-large;
+    font-weight: bolder;
+    
+    
+}
+#value{
+    text-align:center ;
+    font-weight: bolder;
+    font-size: x-large;
+    color:black;
+    font-size: xx-large;
+    
+}
+.main{
+    text-align: center;
+}
+.btn{
+    padding: 20px;
+
+}
+button:hover{
+    cursor: pointer;
+}
+body{
+    background: linear-gradient(to right,grey,white,grey);
+   
+}
+    
+    
+    
+
+
+
